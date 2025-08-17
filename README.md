@@ -1,26 +1,25 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oskar Kapica
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Polzzky
 ====================================================================================================================================
 Web Developer | Script Developer | Smart Contract Developer | Cybersecurity Enthusiast
 ------------------------------------------------------------------
 
-I am a script developer, web developer, and designer with a passion for creating engaging and dynamic online experiences.  As a developer, I specialize in creating and maintaining web applications using a variety of programming languages such as HTML, CSS, JavaScript, and JavaScript frameworks. I'm also proficient in designing responsive and user-friendly interfaces using design software such as Figma or Adobe XD. My experience developing and deploying web applications using frameworks such as React or Vue has allowed me to create complex projects that are both efficient and scalable. 
+I am a script/web developer, and designer with a passion for creating engaging and dynamic online experiences.  As a developer, I specialize in creating and maintaining web applications using a variety of programming languages such as HTML, CSS, JavaScript, and JavaScript frameworks. I'm also proficient in designing responsive and user friendly interfaces using design software such as Figma or Adobe XD. My experience developing and deploying web applications using frameworks such as React ,Vue and Angular has allowed me to create complex projects that are both efficient and scalable. 
 
 In addition to my technical skills, I have a keen understanding of user experience and am able to create engaging and intuitive designs that meet the needs of my users. Collaborating with other developers and designers is something that I enjoy, and I have a strong track record of successfully bringing complex projects to fruition. I'm committed to continuous learning and improvement, regularly seeking out new technologies and programming techniques to enhance my skills and expand my horizons. 
 
 ### Expanded Knowledge in Blockchain & Cybersecurity 
 ------------------------------------------------------------------
 
-Over the past couple of years, I've significantly expanded my skills. I'm proficient in Rust and Solidity, and I've been working on various blockchain projects, gaining deep knowledge in decentralized applications, smart contracts, and blockchain security. I have hands-on experience in developing applications using Rust for performance-critical environments, and Solidity for smart contract development on Ethereum-based networks.
+Over the past 2 years, I've significantly expanded my skills. I'm proficient in Rust and Solidity, and I've been working on various blockchain projects, gaining knowledge in decentralized applications, smart contracts, and blockchain security. I have hands on experience in developing applications using Rust for performance critical environments, and Solidity for smart contract development on Ethereum based networks.
 
-Additionally, I've been diving deep into cybersecurity. I specialize in identifying security vulnerabilities, performing penetration testing, and conducting security audits. I have experience using various tools and techniques to assess system and network security, as well as in-depth knowledge of cryptography, secure coding practices, and vulnerability management. I’m capable of finding and fixing security holes to help secure projects both in development and production.
+Additionally, I've been diving deep into cybersecurity. I specialize in identifying security vulnerabilities and performing penetration testing. I have experience using various tools and techniques to assess system and network security, as well as in-depth knowledge of cryptography, secure coding practices, and vulnerability management. I’m capable of finding and fixing security holes to help secure projects both in development and production.
 
-As part of my cybersecurity journey, I’ve participated in bug bounty programs for multiple organizations, where I've successfully identified vulnerabilities in production systems and helped organizations improve their security posture. I’m actively engaged in platforms like Hack The Box, where I continuously sharpen my skills in real-world penetration testing scenarios, learning new techniques, and tackling complex challenges in various environments. This hands-on experience has significantly strengthened my ability to assess and mitigate security risks in live applications and networks.
-
+As part of my cybersecurity journey, I’ve participated in bug bounty programs for multiple organizations, where I've successfully identified vulnerabilities in production systems and helped organizations improve their security posture. I’m actively engaged in platforms like Hack The Box, where I continuously sharpen my skills in penetration testing scenarios.
 ---
 
 * 🌍  I'm based in Poland
-* 🖥️  See my portfolio at [OskarKapica.pl](http://oskarkapica.pl)
-* ✉️  You can contact me at [kapicaoskar0@gmail.com](mailto:kapicaoskar0@gmail.com)
+* 🖥️  See my portfolio at [polzzky.pl](http://polzzky.pl)
+* ✉️  You can contact me at [polzzky0@gmail.com](mailto:polzzky0@gmail.com)
 * ⚡  I love good music and reverse engineering
 
 ### I Worked for
@@ -68,13 +67,13 @@ As part of my cybersecurity journey, I’ve participated in bug bounty programs 
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/kapicaoskar0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kapicaoskar0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<p align="left"> <a href="https://www.dev.to/polzzky" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://www.npmjs.com/~oskarkapica" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" width="62" height="32" /></a></p>
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/kapicaoskar"><img src="https://github-readme-stats.vercel.app/api?username=kapicaoskar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kapicaoskar's GitHub stats" /></a>
+<a href="http://www.github.com/polzzky"><img src="https://github-readme-stats.vercel.app/api?username=polzzky&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub stats" /></a>
 
-<a href="https://github.com/kapicaoskar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapicaoskar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/polzzky" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polzzky&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
